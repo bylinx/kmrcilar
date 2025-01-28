@@ -1,0 +1,2 @@
+# kmrcilar
+Kumar Sitelerinin Amacı
